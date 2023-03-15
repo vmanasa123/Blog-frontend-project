@@ -31,8 +31,8 @@ function Fitness() {
       <hr className="hrtag" />
 
       <div >
-        <div className='Subhead'> Fitness<span className='unred'>_____</span>
-          <span className='unred1'>_____</span><span className='topposts'>Top Posts</span>
+        <div className='subhead'> Fitness<span className='unred'></span>
+          <span className='unred1'></span><span className='topposts'>Top Posts</span>
         </div>
 
       </div>

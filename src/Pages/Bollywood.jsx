@@ -32,12 +32,11 @@ function Bollywood() {
       <hr className="hrtag" />
 
       <div >
-        <div className='Subhead'> Bollywood<span className='unred'>_____</span>
-          <span className='unred1'>_____</span><span className='topposts'>Top Posts</span>
+        <div className='subhead'>Bollywood<span className='unred'></span>
+          <span className='unred1'></span><span className='topposts'>Top Posts</span>
         </div>
       </div>
 
-      {/* <Layout  name={"Bollywood"} Apidata={data}/> */}
 
       <div className='container'>
         <div className='child1'>
@@ -57,10 +56,6 @@ function Bollywood() {
 
           </div>
 
-          {/* <div className='two'>
-            <img src={arrow.svg} alt={"down-arrow"}/>
-            LOAD MORE
-              </div> */}
         </div>
 
         <div className='child2'>

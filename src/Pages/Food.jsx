@@ -32,8 +32,8 @@ function Food() {
       <hr className="hrtag" />
 
       <div >
-        <div className='Subhead'>Food<span className='unred'>_____</span>
-          <span className='unred1'>_____</span><span className='topposts'>Top Posts</span>
+        <div className='subhead'>Food <span className='unred'></span>
+          <span className='unred1'></span><span className='topposts'>Top Posts</span>
         </div>
 
       </div>

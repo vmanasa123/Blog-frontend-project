@@ -12,7 +12,6 @@
     }
 }
 .topnav{
-    
     display:flex;
     justify-content: space-around;
     font-size:x-large;
@@ -22,7 +21,6 @@
 }
 @media(Min-width:300px) and (max-width:800px) {
     .topnav{
-    
         display:flex;
         font-size:x-large;
         flex-direction: column;
@@ -35,8 +33,9 @@
 
 .li{
     text-decoration: none;
-    color:black;
+    color:darkgoldenrod;
     position: relative;
     left:40px;
     width:100%;
 }
+

@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Sofia+Sans:wght@200&display=swap');
 
 .the{
-
+      color: blue;
     transform: rotate(-90deg);
     position:absolute;
     top:23px;
@@ -17,12 +17,11 @@
        top: 20px;
        font-size: 25px;
         display: inline;
-        
-        
+        color: blue;    
     }
 }
 .siren{
-   
+   color: brown;
     font-size: 50px;
     position: relative;
     left:580px;
@@ -38,5 +37,6 @@
         font-size: 50px;
         padding-left: 5px;
         font-style:bold ;
+        color: brown;
     }
 }

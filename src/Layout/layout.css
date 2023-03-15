@@ -94,7 +94,7 @@
     position: relative;
     top:-140px;
     left:310px;
-    color:rgb(146, 142, 142);
+    color:rgb(239,127,127); 
     
 }
 @media (min-width:300px) and (max-width:800px){
@@ -102,17 +102,16 @@
         font-size: xx-large;
         position: relative;
         top:-140px;
-        left:331px;
-        color:rgb(146, 142, 142);
-        
+        left:331px; 
     }
 }
+
 .no2{
     font-size: xx-large;
     position: relative;
     top:-280px;
     left:310px;
-    color:rgb(146, 142, 142);
+    color:rgb(239, 127, 127);
 }
 @media (min-width:300px) and (max-width:800px){
     .no2{
@@ -120,6 +119,5 @@
         position: relative;
         top:-280px;
         left:331px;
-        color:rgb(146, 142, 142);
     }
 }
